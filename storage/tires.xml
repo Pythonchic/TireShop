@@ -1,0 +1,134 @@
+<Catalog>
+    <Product>
+        <Name>Шина Michelin Pilot Sport 4</Name>
+        <Image>michelin-pilot-sport4.jpg</Image>
+        <Cost>15000</Cost>
+        <Diameter>17</Diameter>
+        <Season>Summer</Season>
+        <SeasonTranslated>Лето</SeasonTranslated>
+        <Width>225</Width>
+        <Profile>45</Profile>
+        <Manufacturer>Michelin</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Nokian Hakkapeliitta R5</Name>
+        <Image>nokian-hakkapeliitta-r5.jpg</Image>
+        <Cost>12000</Cost>
+        <Diameter>16</Diameter>
+        <Season>Winter</Season>
+        <SeasonTranslated>Зима</SeasonTranslated>
+        <Width>205</Width>
+        <Profile>55</Profile>
+        <Manufacturer>Nokian</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Michelin Pilot Sport 4</Name>
+        <Image>michelin-pilot-sport4.jpg</Image>
+        <Cost>12500</Cost>
+        <Diameter>17</Diameter>
+        <Season>Summer</Season>
+        <SeasonTranslated>Лето</SeasonTranslated>
+        <Width>225</Width>
+        <Profile>45</Profile>
+        <Manufacturer>Michelin</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Nokian Hakkapeliitta R5</Name>
+        <Image>nokian-hakkapeliitta-r5.jpg</Image>
+        <Cost>9800</Cost>
+        <Diameter>16</Diameter>
+        <Season>Winter</Season>
+        <SeasonTranslated>Зима</SeasonTranslated>
+        <Width>205</Width>
+        <Profile>55</Profile>
+        <Manufacturer>Nokian</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Continental ContiPremiumContact 5</Name>
+        <Image>continental-contipremiumcontact5.jpg</Image>
+        <Cost>11000</Cost>
+        <Diameter>18</Diameter>
+        <Season>Summer</Season>
+        <SeasonTranslated>Лето</SeasonTranslated>
+        <Width>235</Width>
+        <Profile>50</Profile>
+        <Manufacturer>Continental</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Bridgestone Blizzak WS90</Name>
+        <Image>bridgestone-blizzak-ws90.jpg</Image>
+        <Cost>13500</Cost>
+        <Diameter>15</Diameter>
+        <Season>Winter</Season>
+        <SeasonTranslated>Зима</SeasonTranslated>
+        <Width>195</Width>
+        <Profile>65</Profile>
+        <Manufacturer>Bridgestone</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Goodyear Eagle F1 Asymmetric 5</Name>
+        <Image>goodyear-eagle-f1-asymmetric5.jpg</Image>
+        <Cost>14200</Cost>
+        <Diameter>19</Diameter>
+        <Season>Summer</Season>
+        <SeasonTranslated>Лето</SeasonTranslated>
+        <Width>245</Width>
+        <Profile>40</Profile>
+        <Manufacturer>Goodyear</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Pirelli Cinturato P7</Name>
+        <Image>pirelli-cinturato-p7.jpg</Image>
+        <Cost>10500</Cost>
+        <Diameter>17</Diameter>
+        <Season>Summer</Season>
+        <SeasonTranslated>Лето</SeasonTranslated>
+        <Width>215</Width>
+        <Profile>55</Profile>
+        <Manufacturer>Pirelli</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Yokohama IceGuard IG53</Name>
+        <Image>yokohama-iceguard-ig53.jpg</Image>
+        <Cost>8700</Cost>
+        <Diameter>16</Diameter>
+        <Season>Winter</Season>
+        <SeasonTranslated>Зима</SeasonTranslated>
+        <Width>205</Width>
+        <Profile>60</Profile>
+        <Manufacturer>Yokohama</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Hankook Ventus Prime3 K125</Name>
+        <Image>hankook-ventus-prime3-k125.jpg</Image>
+        <Cost>9500</Cost>
+        <Diameter>18</Diameter>
+        <Season>Summer</Season>
+        <SeasonTranslated>Лето</SeasonTranslated>
+        <Width>225</Width>
+        <Profile>50</Profile>
+        <Manufacturer>Hankook</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Toyo Observe G3-Ice</Name>
+        <Image>toyo-observe-g3-ice.jpg</Image>
+        <Cost>11500</Cost>
+        <Diameter>17</Diameter>
+        <Season>Winter</Season>
+        <SeasonTranslated>Зима</SeasonTranslated>
+        <Width>215</Width>
+        <Profile>55</Profile>
+            <Manufacturer>Toyo</Manufacturer>
+    </Product>
+    <Product>
+        <Name>Шина Dunlop Sport BluResponse</Name>
+        <Image>dunlop-sport-bluresponse.jpg</Image>
+        <Cost>10200</Cost>
+        <Diameter>16</Diameter>
+        <Season>Summer</Season>
+        <SeasonTranslated>Лето</SeasonTranslated>
+        <Width>205</Width>
+        <Profile>55</Profile>
+        <Manufacturer>Dunlop</Manufacturer>
+    </Product>
+</Catalog>

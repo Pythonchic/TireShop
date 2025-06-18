@@ -1,0 +1,5 @@
+Address: localhost:8080
+
+StoragePath: ./storage
+StorageFileFormat: json
+StorageFile: tires.json
