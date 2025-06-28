@@ -5,19 +5,21 @@ import (
 	"os"
 
 	"github.com/ilyakaznacheev/cleanenv"
-
-
 )
+
 type Config struct {
-	Address string `yaml:"Address" yaml-default:"localhost:8080"`
-	StoragePath     string `yaml:"StoragePath"`
-	StorageFileFormat string `yaml:"StorageFileFormat"`
-	StorageFile     string `yaml:"StorageFile"`
+	Address string  `yaml:"Address" yaml-default:"localhost:8080"`
+	Storage Storage `yaml:"Storage"`
 }
 
+type Storage struct {
+	Path       string `yaml:"StoragePath"`
+	FileFormat string `yaml:"StorageDataFileFormat"`
+	File       string `yaml:"StorageDataFile"`
+	Images     string `yaml:"StorageImages"`
+}
 
-
-func ParseConfig(filePath string) (Config, error){
+func ParseConfig(filePath string) (Config, error) {
 	var config Config
 	if _, err := os.Stat(filePath); os.IsNotExist(err) {
 		return config, fmt.Errorf("config file does not exist %s", filePath)

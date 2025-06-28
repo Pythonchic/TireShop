@@ -1,5 +1,16 @@
 Address: localhost:8080
 
-StoragePath: ./storage
-StorageFileFormat: json
-StorageFile: tires.json
+
+Storage:
+  # the path to the repository
+  StoragePath: ./storage
+
+  # without slashes
+  StorageDataFileFormat: json
+  
+  # the name of the data file inside the storage
+  StorageDataFile: tires1.json
+
+
+  # the path to the image storage inside the storage
+  StorageImages: tires-img

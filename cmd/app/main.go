@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/Pythonchic/giga-project/internal/config"
-	"github.com/Pythonchic/giga-project/internal/handlers"
 	"github.com/Pythonchic/logger"
+	"github.com/Pythonchic/tireshop/internal/config"
+	"github.com/Pythonchic/tireshop/internal/handlers"
 )
 
 var conf config.Config
@@ -51,6 +51,11 @@ func main() {
 	http.Handle("/static/", http.StripPrefix("/static/", fs))
 	log.Info("HandlerStaticFiles initialized", logger.Arg("Address", "/static/"))
 
+	absStaticPath, _ = filepath.Abs("storage")
+	fs = http.FileServer(http.Dir(absStaticPath))
+	http.Handle("/storage/", http.StripPrefix("/storage/", fs))
+	log.Info("HandlerStaticFiles initialized", logger.Arg("Address", "/storage/"))
+
 	done := make(chan os.Signal, 1)
 	signal.Notify(done, os.Interrupt, syscall.SIGINT, syscall.SIGTERM)
 
@@ -66,7 +71,5 @@ func main() {
 	<-done
 	log.Info("Stopping server...")
 
-
 	log.Info("Server is stoped")
 }
-

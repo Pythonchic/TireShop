@@ -1,4 +1,4 @@
-module github.com/Pythonchic/giga-project
+module github.com/Pythonchic/tireshop
 
 go 1.23.3
 

@@ -1,0 +1,135 @@
+[
+  {
+    "Name": "Шина Michelin Pilot Sport 4",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 15000,
+    "Diameter": 17,
+    "Season": "Summer",
+    "SeasonTranslated": "Лето",
+    "Width": 225,
+    "Profile": 45,
+    "Manufacturer": "Michelin"
+  },
+  {
+    "Name": "Шина Nokian Hakkapeliitta R5",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 12000,
+    "Diameter": 16,
+    "Season": "Winter",
+    "SeasonTranslated": "Зима",
+    "Width": 205,
+    "Profile": 55,
+    "Manufacturer": "Nokian"
+  },
+  {
+    "Name": "Шина Michelin Pilot Sport 4",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 12500,
+    "Diameter": 17,
+    "Season": "Summer",
+    "SeasonTranslated": "Лето",
+    "Width": 225,
+    "Profile": 45,
+    "Manufacturer": "Michelin"
+  },
+  {
+    "Name": "Шина Nokian Hakkapeliitta R5",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 9800,
+    "Diameter": 16,
+    "Season": "Winter",
+    "SeasonTranslated": "Зима",
+    "Width": 205,
+    "Profile": 55,
+    "Manufacturer": "Nokian"
+  },
+  {
+    "Name": "Шина Continental ContiPremiumContact 5",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 11000,
+    "Diameter": 18,
+    "Season": "Summer",
+    "SeasonTranslated": "Лето",
+    "Width": 235,
+    "Profile": 50,
+    "Manufacturer": "Continental"
+  },
+  {
+    "Name": "Шина Bridgestone Blizzak WS90",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 13500,
+    "Diameter": 15,
+    "Season": "Winter",
+    "SeasonTranslated": "Зима",
+    "Width": 195,
+    "Profile": 65,
+    "Manufacturer": "Bridgestone"
+  },
+  {
+    "Name": "Шина Goodyear Eagle F1 Asymmetric 5",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 14200,
+    "Diameter": 19,
+    "Season": "Summer",
+    "SeasonTranslated": "Лето",
+    "Width": 245,
+    "Profile": 40,
+    "Manufacturer": "Goodyear"
+  },
+  {
+    "Name": "Шина Pirelli Cinturato P7",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 10500,
+    "Diameter": 17,
+    "Season": "Summer",
+    "SeasonTranslated": "Лето",
+    "Width": 215,
+    "Profile": 55,
+    "Manufacturer": "Pirelli"
+  },
+  {
+    "Name": "Шина Yokohama IceGuard IG53",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 8700,
+    "Diameter": 16,
+    "Season": "Winter",
+    "SeasonTranslated": "Зима",
+    "Width": 205,
+    "Profile": 60,
+    "Manufacturer": "Yokohama"
+  },
+  {
+    "Name": "Шина Hankook Ventus Prime3 K125",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 9500,
+    "Diameter": 18,
+    "Season": "Summer",
+    "SeasonTranslated": "Лето",
+    "Width": 225,
+    "Profile": 50,
+    "Manufacturer": "Hankook"
+  },
+  {
+    "Name": "Шина Toyo Observe G3-Ice",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 11500,
+    "Diameter": 17,
+    "Season": "Winter",
+    "SeasonTranslated": "Зима",
+    "Width": 215,
+    "Profile": 55,
+    "Manufacturer": "Toyo"
+  },
+  {
+    "Name": "Шина Dunlop Sport BluResponse",
+    "Image": "bridgestone-blizzak-ws90.jpg",
+    "Cost": 10200,
+    "Diameter": 16,
+    "Season": "Summer",
+    "SeasonTranslated": "Лето",
+    "Width": 205,
+    "Profile": 55,
+    "Manufacturer": "Dunlop"
+  }
+]
+
